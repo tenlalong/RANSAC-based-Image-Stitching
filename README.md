@@ -1,7 +1,7 @@
 # RANSAC-based-Image-Stitching
 A mosaic/panorama application using Python. A panorama is a wide-angle image constructed by compositing together a number of images with overlapping fields-of-view in a photography plausible way.
 
-Write code to construc a mosaic based on affine transformation. The images for the project is provided in the repo. 
+Write code to construct a mosaic based on affine transformation. The images for the project is provided in the repo. 
 
 An affine transformation is equivalent to the composed effects of translation, rotation, isotropic scaling and shear.
 Formally, an affine transformation of an image coordinate, x1, is given by the matrix equation x2 = Tx1 + c. The
